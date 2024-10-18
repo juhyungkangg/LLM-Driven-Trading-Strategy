@@ -1,0 +1,20 @@
+theme: jekyll-theme-cayman
+title: LLM-Driven Sentiment-Momentum Trading Strategy
+description: A project exploring the use of LLMs in trading strategies.
+navbar:
+  - title: Home
+    url: /
+  - title: Problem Statement
+    url: /problem-statement/
+  - title: Summary
+    url: /summary/
+  - title: Methodology
+    url: /methodology/
+  - title: Data Insights
+    url: /data-insights/
+  - title: Findings
+    url: /findings/
+  - title: Conclusion
+    url: /conclusion/
+  - title: Appendix
+    url: /appendix/
