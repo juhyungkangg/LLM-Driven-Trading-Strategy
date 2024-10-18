@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 title: LLM-Driven Sentiment-Momentum Trading Strategy
-description: A project exploring the use of LLMs in trading strategies.
+description: "Exploring the use of Large Language Models in developing a trading strategy that outperforms the S&P 500."
+author:
+  name: Ju Hyung Kang
+  affiliation: Mathematics in Finance, Courant Institute of Mathematical Sciences, NYU
 navbar:
   - title: Home
     url: /
